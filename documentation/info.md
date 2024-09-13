@@ -12,4 +12,5 @@ wiggle-full: Full curvature (for circles)
 ```html
 <div class="wiggle wiggle-sm" style="width: 100px; height: 100px; background-color: #007bff;"></div>
 <div class="wiggle wiggle-md" style="width: 200px; height: 100px; background-color: #28a745;"></div>
-<div class="wiggle wiggle-full" style="width: 100px; height
+<div class="wiggle wiggle-full" style="width: 100px; height: 100px; background-color: #dc3545;"></div>
+<div class="wiggle wiggle-lg" style="padding: 50px; background-color: #ffc107;"></div>
