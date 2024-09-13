@@ -1,0 +1,31 @@
+/* css/wiggle.css */
+
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Main Wiggle Class */
+.wiggle {
+    border-radius: 15px; /* Default curvature */
+    margin: 20px;
+}
+
+/* Modifier Classes for Different Curvatures */
+.wiggle-sm {
+    border-radius: 10px; /* Small curvature */
+}
+
+.wiggle-md {
+    border-radius: 20px; /* Medium curvature */
+}
+
+.wiggle-lg {
+    border-radius: 30px; /* Large curvature */
+}
+
+.wiggle-full {
+    border-radius: 50%; /* Full curvature (for circles) */
+}
